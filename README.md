@@ -1,4 +1,4 @@
-# fortnite-matchmaker-issues
+# Fortnite Matchmaker Issues
 
 This repository is for storing issues for https://fortnite-matchmaker.herokuapp.com
 
